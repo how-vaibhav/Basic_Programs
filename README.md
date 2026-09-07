@@ -16,7 +16,6 @@ This repository is mainly for:
 
 - Beginners starting to learn programming
 - Students looking for simple practice problems
-- Anyone who wants to explore basic C++ programs and concepts
 
 ## Note
 
