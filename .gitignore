@@ -1,0 +1,13 @@
+# VS Code workspace settings
+.vscode/
+
+# Windows metadata
+desktop.ini
+
+# C/C++ build outputs
+*.exe
+*.out
+*.o
+
+# VS Code's temporary runner files
+tempCodeRunnerFile.cpp
