@@ -6,7 +6,7 @@ I push my practice programs here as I learn. The code may be basic or experiment
 
 ## Contents
 
-- **CPP/** - C++ practice programs, data structures, algorithms, recursion, sorting, searching, mathematics, and object-oriented programming
+- **CPP/** - C++ practice programs, data structures, algorithms, recursion, sorting, searching, and object-oriented programmin
 - **Computer Network/** - Computer networking practice and notes
 - **Shell/** - Shell scripting practice
 
