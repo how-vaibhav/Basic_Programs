@@ -21,7 +21,7 @@ int main(){
         avg_tat += tat[i];
         avg_wt += wt[i];
     }
-
+dxsx
     //result
     printf("\nProcess \t Burst Time \t Waiting time  \t Turnaround Time ");
     for(int i=0 ; i<n ; i++){
@@ -29,4 +29,4 @@ int main(){
     }
     printf("\n Avg turn around time is %2f ",avg_tat/n);
     printf("\n Avg  waiting  time is %2f",avg_wt/n);
-}
+xsxsxsxsxsx:sxsxsxsx
